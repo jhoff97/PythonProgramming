@@ -1,4 +1,3 @@
-# Python Programming Class Project
 # FoodBER: *For Berliners on the go!*
 Berliners are a busy bunch who want quick meals and good vibes without breaking the bank. Ever the fans of good recommendations, they cannot be arsed to spend hours going over restaurants to decide which place offers the most unique culinary experience they so desire. 
 
